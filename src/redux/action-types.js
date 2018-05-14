@@ -1,0 +1,6 @@
+export const API = 'API'
+export const ON_LOAD = 'ON_LOAD'
+export const LOADED = 'LOADED'
+export const ON_QUEUE = 'ON_QUEUE'
+export const FINISH_QUEUE = 'FINISH_QUEUE'
+export const SET_WALLETS = 'SET_WALLETS'

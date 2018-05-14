@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.wellcom a{
+  color: white;
+}
+.gray a{
+  color:gray;
+}
+
+.mt-10{
+  margin-top:200px;
+}
+.bullet{
+  width:16px;
+  height:16px;
+  background-color:darkgray;
+  border-radius: 50%;
+}
+
+.add-form{
+  width:500px;
+  color:#ccc;
+  border:1px solid #ccc;
+}
+.fs-11{
+  font-size: 11px;
+}
+::placeholder{
+  color:#ccc;
+}
